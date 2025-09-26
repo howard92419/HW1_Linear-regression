@@ -1,0 +1,10 @@
+1. Created a new repository called "HW1_Linear-regression".
+2. Cloned the repository from GitHub to the local drive.
+3. Added a README.md file.
+4. Created the app.py file.
+5. Did some vibe coding with ChatGPT.
+6. Created a requirements.txt file.
+7. Ran pip install -r requirements.txt.
+8. Logged in to Streamlit.
+9. Deployed "HW1_Linear-regression" from GitHub.
+10. Finished the work on 2025.09.26 at 23:10 — time to go to bed.
